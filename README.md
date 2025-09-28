@@ -6,6 +6,7 @@ A API da Pix Go permite criar pagamentos via qrcodes Pix através do Mercado Pag
 Nossa plataforma foi desenvolvida para simplificar a integração do Pix para desenvolvedores, pequenos e-commerces e prestadores de serviço autônomos.
 
 • Facilidade de Integração: Oferecemos uma API simples, com documentação clara e exemplos de código prontos. Integre o Pix em seus projetos em poucas horas.
+
 • Preço Justo por Requisição: Diga adeus às mensalidades caras! Adotamos um modelo de créditos pré-pagos, onde você paga por requisição (ex: R$ 0,02 ou R$ 0,05). Você paga somente quando vender ou usar a funcionalidade.
 
 • Velocidade e Confiabilidade: Construída sobre o PHP 8 e MySQL, a Pix Go foca em escalabilidade, sendo ideal para sites e aplicativos que não querem manter um servidor próprio para gerar QR Code Pix.
